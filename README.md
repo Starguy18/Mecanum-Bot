@@ -5,7 +5,7 @@
 
 
 #####anything below this line is default readme code and is standardized
-## COMMIT/UPLOAD RULES
+## What is codenclature?
 
 ##Difference between Beta & Stable Branch
 
